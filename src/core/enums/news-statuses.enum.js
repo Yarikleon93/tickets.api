@@ -1,0 +1,1 @@
+module.exports = Object.freeze({ 'BREAKING': 0 });

@@ -1,0 +1,1 @@
+module.exports = Object.freeze({ 'ACTIVE_TICKETS': 0, 'ARCHIVE_TICKETS': 1});
